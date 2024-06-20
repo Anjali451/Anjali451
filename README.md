@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Sinha</h1>
 <h3 align="center">A Passionate Frontend Developer and Data Analyst from India</h3>
 <p align="center"> 🌱 How to reach me **anjalisinha89871@gmail.com** </p>
-<img align="right" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
+<img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
 
 <p align="left"> <img a src="https://komarev.com/ghpvc/?username=anjali451&label=Profile%20views&color=0e75b6&style=flat" alt="anjali451" /> </p>
 
