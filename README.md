@@ -1,8 +1,8 @@
-<p align="center">[![MasterHead align="center" width="500"](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)](https://anjali451.io)</p>
+<h1 align="center"><img src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif"></h1>
 <h1 align="center">Hi 👋, I'm Anjali Sinha</h1>
 <h3 align="center">A Passionate Frontend Developer and Data Analyst from India</h3>
 <p align="center"> 🌱 How to reach me **anjalisinha89871@gmail.com** </p>
-<img align="right" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
+<img align="right" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="">
 
 <p align="left"> <img a src="https://komarev.com/ghpvc/?username=anjali451&label=Profile%20views&color=0e75b6&style=flat" alt="anjali451" /> </p>
 
