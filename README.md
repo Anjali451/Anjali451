@@ -1,4 +1,4 @@
-[![MasterHead align="center" width="500"](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)](https://anjali451.io)
+<p align="center">[![MasterHead align="center" width="500"](https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif)](https://anjali451.io)</p>
 <h1 align="center">Hi 👋, I'm Anjali Sinha</h1>
 <h3 align="center">A Passionate Frontend Developer and Data Analyst from India</h3>
 <p align="center"> 🌱 How to reach me **anjalisinha89871@gmail.com** </p>
