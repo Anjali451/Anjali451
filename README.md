@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali451&show_icons=true&locale=en&layout=compact" alt="anjali451" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali451&show_icons=true&locale=en" alt="anjali451" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali451)](https://github.com/anjali451/github-readme-stats)
